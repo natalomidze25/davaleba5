@@ -1,0 +1,16 @@
+@import "navigation.css";
+@import "radiobox.css";
+@import "button.css";
+
+html,body{
+    background-color: hsl(227.14deg 100% 94.51%);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.container{
+    width: 30rem;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}

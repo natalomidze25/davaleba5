@@ -1,0 +1,14 @@
+.button-task{
+    background-color: hsl(266.97deg 73.15% 70.78%);
+    color: white;
+    border: none;
+    padding: 1.2rem 3.5rem;
+    border-radius: 1.5rem;
+    font-size: 1.4rem;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    bottom: -1.75rem;
+    cursor: pointer;
+    box-shadow: 0.1rem 0.1rem 0.1rem hsl(266.97deg 28.45% 76%);
+}
